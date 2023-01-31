@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "arch/img/icons/icon-shoeclean-1.svg",
+    "title": "Fast Cleaning",
+    "description": {
+      "text1": "Washing of the upper and midsole.",
+      "text2": "Price : Rp. 29.900"
+    }
+  },
+  {
+    "icon": "arch/img/icons/icon-shoeclean-2.svg",
+    "title": "Standard Cleaning",
+    "description": {
+      "text1": "Washing of the upper, midsole, and outsole.",
+      "text2": "Price : Rp. 49.900"
+    }
+  },
+  {
+    "icon": "arch/img/icons/icon-shoeclean-3.svg",
+    "title": "Deep Cleaning",
+    "description": {
+      "text1": "Detailed washing of all parts of the shoe.",
+      "text2": "Price : Rp. 59.900"
+    }
+  }
+]

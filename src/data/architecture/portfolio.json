@@ -1,0 +1,22 @@
+[
+  {
+    "image": "arch/img/works/image-gallery-shoeclean-1.webp",
+    "title": "Fast Cleaning",
+    "type": "Washing of the upper and midsole."
+  },
+  {
+    "image": "arch/img/works/image-gallery-shoeclean-2.webp",
+    "title": "Standard Cleanig",
+    "type": "Washing of the upper, midsole, and outsole."
+  },
+  {
+    "image": "arch/img/works/image-gallery-shoeclean-3.webp",
+    "title": "Deep Cleaning",
+    "type": "Detailed washing of all parts of the shoe."
+  },
+  {
+    "image": "arch/img/works/image-gallery-shoeclean-4.webp",
+    "title": "Premium Cleaning",
+    "type": "Washing and care are shown for special materials such as leather etc."
+  }
+]
